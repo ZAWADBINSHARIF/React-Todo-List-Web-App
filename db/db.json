@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Orange"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Banana"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Jack Furite"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "Apple"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "Cookies"
+    }
+  ]
+}
