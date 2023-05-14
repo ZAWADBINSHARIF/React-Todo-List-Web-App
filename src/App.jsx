@@ -8,7 +8,7 @@ import apiRequest from './api/apiRequest'
 
 function App() {
 
-  const API_URL = "http://localhost:3400/items";
+  const API_URL = "http://localhost:9999/items";
 
   const [items, setItems] = useState([]);
   const [newItem, setNewItem] = useState('');
