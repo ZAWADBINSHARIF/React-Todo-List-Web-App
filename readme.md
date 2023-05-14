@@ -2,11 +2,11 @@
 
 ## Todo List Image
 
-![Todo List Image](./github/product-imgs/AddTodo.png)
+![Add Todo Image](./github/product-imgs/TodoList.png)
 
 ## Add Todo Image
 
-![Add Todo Image](./github/product-imgs/TodoList.png)
+![Todo List Image](./github/product-imgs/AddTodo.png)
 
 ## How to run this app in local machine
 
