@@ -8,7 +8,7 @@
 
 ![Todo List Image](./github/product-imgs/AddTodo.png)
 
-## How to run this app in local machine
+## How to run this app on local machine
 
 **This app is used ViteJS and json-server for runnig ReactJS and Database**
 First run json-server for database `npx json-server -p 9999 -w db/db.json`
